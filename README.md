@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Computer Vision Project,Web Development Project Or any Analytics project
 - 🤔 I’m looking for help with Application Building using MERN stack
 - 💬 Ask me about OpenCV,Keras,sklearn,Web Devlopment
-- 📫 How to reach me:You can connect with me on linkedin using Below id:
+- 📫 How to reach me:You can connect with me on linkedin using  id:
                        https://www.linkedin.com/in/abhishek-pandey-217a961b2
 
 - 😄 Pronouns: You can give one
